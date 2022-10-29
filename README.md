@@ -7,7 +7,7 @@ Requested to create a program to add new customers.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/hamisirizwan/fansoft.git
 ```
 
 Go to the project directory
@@ -18,15 +18,15 @@ Go to the project directory
 
 ## Backend
 
-1. `cd backend`
-2. `yarn install`
-3. `yarn start`
+1. `cd server`
+2. `npm install`
+3. `npm start`
 
 ## Frontend
 
-1. `cd frontend`
-2. `yarn install`
-3. `yarn dev`
+1. `cd client`
+2. `npm install`
+3. `npm start`
 
 ## Tech Stack
 
